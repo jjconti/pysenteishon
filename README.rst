@@ -21,6 +21,7 @@ From GitHub
 
    git clone https://github.com/edvm/pysenteishon
    cd pysenteishon
+   pip install -r requirements.txt (o requirements.darwin.txt for macOS)
    python pysenteishon/app.py
 
 Windows
